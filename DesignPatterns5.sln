@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{8CACFD32-8E64-4610-B366-604CF596CC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{040A1A7D-A184-4820-A778-2319F169CBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CACFD32-8E64-4610-B366-604CF596CC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CACFD32-8E64-4610-B366-604CF596CC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CACFD32-8E64-4610-B366-604CF596CC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CACFD32-8E64-4610-B366-604CF596CC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040A1A7D-A184-4820-A778-2319F169CBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040A1A7D-A184-4820-A778-2319F169CBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040A1A7D-A184-4820-A778-2319F169CBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040A1A7D-A184-4820-A778-2319F169CBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCBE5C4-B94A-468F-9878-E35C0E21E8BF}
+	EndGlobalSection
+EndGlobal
